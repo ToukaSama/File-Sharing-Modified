@@ -40,7 +40,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/763566b86932ad9e6a1bc-f0b17991cef1d5afa1.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/763566b86932ad9e6a1bc-f0b17991cef1d5afa1.jpg")
 
-HELP_TXT = "<b>Hi Dude!\nThis is an file to link bot work for @Anime_X_Hunters\n\n❏ Bot Cammands\n├/start : start the bot\n├/about : Our Information\n└/help : Help related Bot\n\n💥 Simply click on link and start the bot join both channels and try again thats it.....!\n\n🧑‍💻 Developed by <a href=https://t.me/Its_Oreki_Hotarou>Hōᴛᴀʀō Oʀᴇᴋɪ</a></b>"
+HELP_TXT = "<b>Hi Dude!\nThis is an file to link bot work for @Anime_Sovereign\n\n❏ Bot Cammands\n├/start : start the bot\n├/about : Our Information\n└/help : Help related Bot\n\n💥 Simply click on link and start the bot join both channels and try again thats it.....!\n\n🧑‍💻 Developed by <a href=https://t.me/About_meowtaro>Touka Sama</a></b>"
 
 ABOUT_TXT = "<b>⟦⟧ Hi There {first}!💫\n┏━━━━━━━❪❂❫━━━━━━━━\n◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/About_meowtaro><Touka Sama</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Anime_Sovereign>Aɳιɱҽ ʂσʋҽɾҽιɠɳ</a>\n◈ ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_Sovereign>ᴏɴɢᴏɪɴɢ ʂσʋҽɾҽιɠɳ</a>\n◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>\n◈ ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Heroku</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/About_meowtaro>Touka Sama</a>\n┗━━━━━━━❪❂❫━━━━━━━━</b>"
 
